@@ -1,1 +1,1 @@
-web: django PythonFileTree.wsgi --log-file -
+web: gunicorn PythonFileTree.wsgi --log-file -
