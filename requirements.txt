@@ -2,6 +2,6 @@ Django==2.1.7
 mysqlclient==1.4.2.post1
 pytz==2019.1
 Scrapy==1.6.0
-twisted==18.9.0
+twisted==22.2.0
 gunicorn
 django-heroku
